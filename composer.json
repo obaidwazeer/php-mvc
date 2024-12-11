@@ -1,0 +1,15 @@
+{
+    "name": "user/php-mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "obaidwazeer",
+            "email": "obaidwazeer@gmail.com"
+        }
+    ],
+    "require": {}
+}
